@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak
-- 👀 I’m interested in beautiful web apps
+- 👀 I’m interested in building beautiful web apps
 - 🌱 I’m currently learning web development
 - 💞️ I’m actively seeking for an internship as a web developer 
 - 📫 mailme at : deepaktjstiwari@gmail.com
