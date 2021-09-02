@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak
-- 👀 I’m interested in building beautiful web apps
+- 👀 I’m interested in building web apps
 - 📫 mailme at : deepaktjstiwari@gmail.com
 
 <!---
